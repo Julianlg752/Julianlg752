@@ -7,7 +7,7 @@ Based in Maryland. Open to remote roles or relocating to the San Francisco Bay A
 **What I'm working on now**
 
 - **[GoLive CMS](https://golivecms.site)**: a headless CMS SaaS (Go, Next.js, MySQL, Redis, Docker on DigitalOcean) that hosts several websites. I own the whole backend, from API design to deployment and monitoring. Architecture and delivery were AI-assisted with Claude Code.
-- **[SkyHUD](https://github.com/Julianlg752/skyhud)** (open source, early release): a DaVinci Resolve plugin that turns the flight data hidden in drone and action camera files into an animated, editable HUD (speed, height, flight path, flips, g-force). Written in Go; it reads DJI and GoPro telemetry straight out of the video files, and I test it on my own FPV flights.
+- **[SkyHUD](https://julianlg752.github.io/skyhud/)** (open source, early release, [code](https://github.com/Julianlg752/skyhud)): a DaVinci Resolve plugin that turns the flight data hidden in drone and action camera files into an animated, editable HUD (speed, height, flight path, flips, g-force). Written in Go; it reads DJI and GoPro telemetry straight out of the video files, and I test it on my own FPV flights.
 - **Content orchestrator**: a Go and Python service that reads the news, drafts blog posts for sites I run, fixes itself when a step fails, and adjusts content based on GA4, Search Console and Bing data.
 - **Mobile apps (React Native)**: *Polish Vocabulary* and *Polish Sounds*, two language-learning apps built for a client's students (App Store and Google Play), and *Drone Hangar*, a battery maintenance tracker I built for myself as a drone pilot (App Store).
 
